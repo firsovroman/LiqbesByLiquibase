@@ -51,3 +51,23 @@ build/
 /.idea/dataSources/6445d5c4-dbeb-4e11-9e7a-ad52b8c18c12/storage_v2/_src_/database/postgres.edMnLQ.meta
 /.idea/dataSources/6445d5c4-dbeb-4e11-9e7a-ad52b8c18c12/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta
 /.idea/uiDesigner.xml
+/.idea/sonarlint/issuestore/5/1/51bfa5745df1e55e3d6018c4946829b87e37370a
+/.idea/sonarlint/securityhotspotstore/5/1/51bfa5745df1e55e3d6018c4946829b87e37370a
+/.idea/sonarlint/issuestore/9/9/999164488ead69d2950023d657ae1b1e5e075121
+/.idea/sonarlint/securityhotspotstore/9/9/999164488ead69d2950023d657ae1b1e5e075121
+/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+/.idea/sonarlint/issuestore/d/8/d81540de896dc877a0550339bdc6eeffbfb561ad
+/.idea/sonarlint/securityhotspotstore/d/8/d81540de896dc877a0550339bdc6eeffbfb561ad
+/.idea/misc.xml
+/.idea/workspace.xml
+
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
