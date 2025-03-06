@@ -10,7 +10,7 @@
             <tableIsEmpty tableName="car"/>
         </preConditions>
 
-        <loadData tableName="car" file="db/data/car-data.csv" encoding="UTF-8" separator=","/>
+        <loadData tableName="car" file="db/data/car-data.csv"/>
     </changeSet>
 
 </databaseChangeLog>
